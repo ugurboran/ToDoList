@@ -1,0 +1,14 @@
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\bin\Debug\net8.0\ToDoListProgram.exe
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\bin\Debug\net8.0\ToDoListProgram.deps.json
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\bin\Debug\net8.0\ToDoListProgram.runtimeconfig.json
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\bin\Debug\net8.0\ToDoListProgram.dll
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\bin\Debug\net8.0\ToDoListProgram.pdb
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.AssemblyInfoInputs.cache
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.AssemblyInfo.cs
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.csproj.CoreCompileInputs.cache
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.dll
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\refint\ToDoListProgram.dll
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.pdb
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ToDoListProgram.genruntimeconfig.cache
+C:\Users\UMUT BORAN\Desktop\Dotnet Developments\ToDoList\ToDoListProgram\obj\Debug\net8.0\ref\ToDoListProgram.dll
